@@ -31,5 +31,5 @@ data are required to make informed decisions on player selection.
 ✅Creating a User-Friendly Home Page with Navigation Buttons 🔗  
 ✅Conducting User Acceptance Tests and Data Validation  
 ✅Mastering Power BI Web Version and Creating Workspaces 🌐  
-✅Provided dashboards with clear insights into player performances 
+✅Provided dashboards with clear insights into player performances   
 ✅Aiding decision-makers in selecting the best team based on solid data analysis 📊
