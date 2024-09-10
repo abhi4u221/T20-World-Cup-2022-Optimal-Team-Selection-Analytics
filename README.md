@@ -18,7 +18,7 @@ data are required to make informed decisions on player selection.
 ➡️ Dashboard Preparation  
 ➡️ Data Validation 
 
-🔑 Key Takeaways:
+🔑 Key Takeaways:  
 ✅ Harnessing the Power of Power BI 📊  
 ✅Proficiency in Data Exploration through SQL, Fact, and dim Tables 📚  
 ✅Importing Data from MySQL Databases/CSV Files/Excel Workbooks 📂  
