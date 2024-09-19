@@ -20,7 +20,7 @@ data are required to make informed decisions on player selection.
 
 🔑 Key Takeaways:  
 ✅ Harnessing the Power of Power BI 📊  
-✅Proficiency in Data Exploration through SQL, Fact, and dim Tables 📚  
+✅Proficiency in Data Exploration through SQL, Fact,and dim Tables 📚  
 ✅Importing Data from MySQL Databases/CSV Files/Excel Workbooks 📂  
 ✅Skillful Data Transformation and Calculated Columns with Power Query and M Language  
 ✅Crafting Effective Data Models with Star and Snowflake Schemas 🌟❄️  
