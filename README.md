@@ -7,7 +7,7 @@ python, pandas, and Power BI to perform analyses on T20 World Cup cricket
 data.
 
 ## Objective:
-The objective of this project is to assemble the best 11-player team for
+The objective of this project is to assemble the best 11-players team for
 T20 World Cup. Comprehensive insights from the 2022 T20 World Cup
 data are required to make informed decisions on player selection.
 
